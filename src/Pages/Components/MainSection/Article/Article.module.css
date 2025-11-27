@@ -1,0 +1,9 @@
+.color {
+    background-color: #dedede;
+    padding: 30px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: max-content;
+}

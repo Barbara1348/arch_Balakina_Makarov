@@ -1,0 +1,8 @@
+.color {
+    background-color: #b5fffe;
+    padding: 30px;
+    border: 2px solid blue;
+    display: flex;
+    width: 70vw;
+
+}
